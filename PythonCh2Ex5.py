@@ -5,4 +5,4 @@ fah=(1.8*x)+32
 
 cel=(fah-x)/1.8
 
-print fah
+print (fah)
